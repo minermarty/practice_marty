@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 conveyor
+=======
+intake
+>>>>>>> origin/intake
+anything 
